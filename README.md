@@ -357,7 +357,8 @@ Jika pengguna memasukkan operator yang tidak dikenali (bukan `+, -, *, atau /`),
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/37d0a9c76c964b3ed643bccb5447a24c433bba7b/Image/Screenshot%20From%202024-10-25%2008-24-32.png)
+![Screenshot (7)](https://github.com/user-attachments/assets/28871472-2616-4008-ba25-a45b211e3267)
+
 
 Code program tersebut:
 
