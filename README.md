@@ -157,7 +157,7 @@ Jika gaji pengguna tidak lebih dari 3 juta, program akan mencetak "Gaji belum UM
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/b21525682f138995596aa1dd4e62e4200541c0a5/Image/Screenshot%20From%202024-10-24%2021-31-55.png)
+![Screenshot (4)](https://github.com/user-attachments/assets/7cc48387-aa02-4f4d-8780-7c15cfdfb358)
 
 # Menggunakan kondisi or dengan menginputkan 3 bilangan
 ```Python
@@ -190,7 +190,7 @@ Bagian ini memeriksa tiga kondisi menggunakan operator logika `or`, jika salah s
 
 Hasil output
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/d8ce1dc85a0b9d6be31b9beb4807cfc671de17d1/Image/Screenshot%20From%202024-10-24%2021-43-48.png)
+![Screenshot (5)](https://github.com/user-attachments/assets/108e2b39-9ee4-4784-a05d-281eaef5f3a8)
 
 # Latihan3
 # Program tiket bioskop
@@ -277,7 +277,7 @@ Setelah menghitung total harga, anda dapat langsung menjalankan fungsinya
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy02/blob/0f98f3510cceada4aaa8bf575442a8458fc47d81/Image/Screenshot%20From%202024-10-25%2007-58-51.png)
+![Screenshot (6)](https://github.com/user-attachments/assets/5e14f433-f2d5-4054-9540-d18ef6f6287e)
 
 Code program tersebut:
 
